@@ -206,7 +206,7 @@ progress::-moz-progress-value {
     position: relative;
     margin: 0 auto;
     width: 1050px;
-    height: 1485px;
+    height: 1528px;
     background-color: white;
 
 }
@@ -224,6 +224,7 @@ progress::-moz-progress-value {
     margin-top:200px;
     margin-bottom: 30px;
 }
+
 .main {
     position: relative;
     margin-left: 360px;
