@@ -79,7 +79,7 @@ h1, h2, h3, h4, h5 {
 }
 
 .right-list li {
-    margin-bottom: 12px;
+    margin-bottom: 20px;
 }
 
 
@@ -166,7 +166,8 @@ progress::-moz-progress-value {
 
 .me {
     text-align: center;
-    margin-bottom: 20px;
+    margin-top:200px;
+    margin-bottom: 30px;
 }
 
 .weixin{
@@ -204,9 +205,8 @@ progress::-moz-progress-value {
 .container {
     position: relative;
     margin: 0 auto;
-
     width: 1050px;
-    height: 1550px;
+    height: 1485px;
     background-color: white;
 
 }
@@ -220,14 +220,18 @@ progress::-moz-progress-value {
     padding-right: 20px;
 }
 
+.education {
+    margin-top:200px;
+    margin-bottom: 30px;
+}
 .main {
-    
-    position: relative;;
+    position: relative;
     margin-left: 360px;
     min-height: 100%;
     padding: 20px;
-
 }
+
+
 
 .info-header:hover {
     background-color: #d4dee4;
@@ -286,5 +290,7 @@ ul li{
     cursor: pointer;
     
 }
+
+
 
 
